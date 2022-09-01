@@ -1,0 +1,9 @@
+{
+    "name": "kartograf/kartograf",
+    "license": "GPLv3",
+    "description": "Kartograf web app.",
+    "autoload": {
+        "files": ["index.php"]
+    },
+    "minimum-stability": "stable"
+}
